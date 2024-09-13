@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a versatile developer with a passion for creat
 
 ## 🛠️ Skills
 
-- **Mobile Application Development**
+- **Mobile Application Development**![image](https://github.com/user-attachments/assets/12778a54-744b-4041-a9ba-5b77d3eb1cea)
 - **Web Development**
 - **Design**: [Adobe Photoshop, Adobe Illustrator, etc.]
 - **Productivity Tools**: [Microsoft Excel, PowerPoint, etc.]
